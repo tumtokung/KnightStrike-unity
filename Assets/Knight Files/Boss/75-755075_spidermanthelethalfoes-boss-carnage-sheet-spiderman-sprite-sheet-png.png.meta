@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 553f07437563cc14191252d811cd3792
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_0
+    21300002: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_1
+    21300004: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_2
+    21300006: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_3
+    21300008: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_4
+    21300010: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_5
+    21300012: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_6
+    21300014: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_7
+    21300016: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_8
+    21300018: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_9
+    21300020: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_10
+    21300022: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_11
+    21300024: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_12
+    21300026: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_13
+    21300028: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_14
+    21300030: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_15
+    21300032: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_16
+    21300034: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_17
+    21300036: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_18
+    21300038: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_19
+    21300040: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_20
+    21300042: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_21
+    21300044: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_22
+    21300046: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_23
+    21300048: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_24
+    21300050: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_25
+    21300052: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_26
+    21300054: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_27
+    21300056: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_28
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 242
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349b63571e6fdd40aa43d3f217c00a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 242
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03408c64eb922d499cc08671e25b55f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 245
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1328e45726e885439fb93cd5022706c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 239
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38310954657b5c94995493516cc70cd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 240
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f23bca3136c3a4aa2c43e579083a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 239
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444e1fa184ba9d4bb8a5a8dd554206a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 169
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee1ee8746b703746871b75b318e00d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb3e574bab1a6844813bcf1321ebdd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 174
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704729c4e63e2be4ead2ad26b7308a75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 173
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b644d80b0292b2458b0b74cf4dbefc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 173
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc67604d84828a41883a247b312ba2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 173
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29358472ea5af9d4a8c99a24cc2402e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 73
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef248b2a4229ae4d9ba0f4a996e073b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 74
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32c2e0ec73e2f49b3ab42385ab25b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 139
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b95ed082c8074da227aa4fc7d2e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 73
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d48f6f8ae555d429c4c63b0e9470d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 89
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326fea58ed0ab6e4a91e54b189716fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 80
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cb15cf55173c340baaad5e6e9488f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0537ae6918a14f9901cc867d0a915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 91
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9074184a427f9624fb43609413a33b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 81
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23eba86d44e8446956a9969dbb04a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc458e08691106428a32737330168a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 6
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c9b5285c17e174b8e4d36b157e7f54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 100
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423e155f5ec79ad45b80469f3840d805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c97a7b3eef1d4d8d117b4a7e1f404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_25
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 31
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8335e18df48306d4aa77b474f8926fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 29
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44199c1750b9a845a125131b9e24319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 23
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96385f68fbe42842bec4c58118105c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 75-755075_spidermanthelethalfoes-boss-carnage-sheet-spiderman-sprite-sheet-png_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 21
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68a76b76870e2f46a2e9c45e5c0b94a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 505594e8381808f418aecb776e7ba233
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
